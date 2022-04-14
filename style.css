@@ -1,0 +1,25 @@
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+  color:#880E4F;
+}
+
+#status
+{
+font-size: 30px;
+  color: orange;
+  padding:10px;
+}
+canvas{
+ /*border: 2px solid black;*/
+    box-shadow:10px 10px 10px pink;
+  border-radius:10px;
+}
+body{
+  background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    background-size:cover;
+ 
+}
+
